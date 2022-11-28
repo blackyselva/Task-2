@@ -1,0 +1,28 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.section {
+	background-color:#edfaf9;
+	padding:40px;
+}
+.container {
+	width:100%;
+	margin:auto;
+}
+.row {
+	display:flex;
+	justify-content:space-around;
+}
+.box {
+	width:20%;
+	padding:50px;
+	background-color:#fafafa;
+	text-align:center;
+	box-shadow: 5px 5px 15px 15px #c5c9c9;
+}
+h1 {
+	color:#221c99;
+	font-size:43px;
+}
